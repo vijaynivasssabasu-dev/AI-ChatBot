@@ -19,7 +19,7 @@ system_prompt = """You are an expert AI assistant. Follow these rules:
 4. Give structured answers with examples where needed
 5. Be clear, concise and helpful always"""
 
-print("🤖 AI Chatbot - Type 'quit' to exit")
+print("AI Chatbot - Type 'quit' to exit")
 print("-" * 40)
 
 while True:
